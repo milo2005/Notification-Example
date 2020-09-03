@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Notifications</string>
+    <string name="notification_channel_id">pidotax</string>
+    <string name="notification_channel_description">Alertas de los estados de los viajes</string>
+</resources>
